@@ -22,6 +22,5 @@ Create a simple dynamic website which has the following specs.</br>
 **BACK END**: PHP
 **DATABASE**: MySQL
 
-The Website is Hosted at InfinityFree. 
 
 
